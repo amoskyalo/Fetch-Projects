@@ -1,0 +1,33 @@
+.image-section{
+   width: 50%;
+   margin: auto;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-bottom: 32px;
+}
+
+img{
+   height: 200px;
+   width: auto;
+   text-align: center;
+   display: flex;
+}
+.poem-section{
+   width: 50%;
+   margin: auto;
+}
+#myChart{
+   width: 1000px;
+   margin: auto;
+}
+.whereTheIssAt{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+#issMap{
+   height: 300px;
+   margin-bottom: 100px;
+}
